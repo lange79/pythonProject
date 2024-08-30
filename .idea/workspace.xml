@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="205ee9b3-d5c8-4c6b-a272-6d1a74321927" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dia 2/Operadores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 2/Proyecto_dia2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 2/formatear_cadenas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 2/integers_floats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dia 2/redondear.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Primer_Proyecto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dia 1/Primer_Proyecto.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Dia 1/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Operadores.executor": "Run",
     "Python.Primer_Proyecto.executor": "Run",
+    "Python.Proyecto_dia2.executor": "Run",
+    "Python.formatear_cadenas.executor": "Run",
+    "Python.integers_floats.executor": "Run",
+    "Python.redondear.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",

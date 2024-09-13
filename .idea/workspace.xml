@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="205ee9b3-d5c8-4c6b-a272-6d1a74321927" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dia 2/Operadores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2/Proyecto_dia2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2/formatear_cadenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2/integers_floats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dia 2/redondear.py" afterDir="false" />
+    <list default="true" id="205ee9b3-d5c8-4c6b-a272-6d1a74321927" name="Changes" comment="Commit dia 3">
+      <change afterPath="$PROJECT_DIR$/Dia 3/Fragmentar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia 3/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dia 3/index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lange79&quot;
+  }
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="5ccc549d-9604-4f7c-90db-2468328bb0b3" />
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lange79/pythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;5ccc549d-9604-4f7c-90db-2468328bb0b3&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Primer_Proyecto.py" root0="SKIP_INSPECTION" />
   </component>
@@ -44,10 +53,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Fragmentar.executor": "Run",
     "Python.Operadores.executor": "Run",
     "Python.Primer_Proyecto.executor": "Run",
     "Python.Proyecto_dia2.executor": "Run",
     "Python.formatear_cadenas.executor": "Run",
+    "Python.index.executor": "Run",
     "Python.integers_floats.executor": "Run",
     "Python.redondear.executor": "Run",
     "Python.variables.executor": "Run",
@@ -78,6 +89,23 @@
       <option name="presentableId" value="Default" />
       <updated>1724811524354</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit dia 2">
+      <option name="closed" value="true" />
+      <created>1724986835836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724986835836</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit dia 3">
+      <option name="closed" value="true" />
+      <created>1725436842795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725436842795</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,5 +118,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit dia 2" />
+    <MESSAGE value="Commit dia 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit dia 3" />
   </component>
 </project>

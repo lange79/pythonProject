@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="205ee9b3-d5c8-4c6b-a272-6d1a74321927" name="Changes" comment="Commit dia 3">
-      <change afterPath="$PROJECT_DIR$/Dia 3/Fragmentar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dia 3/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dia 3/index.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +52,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Fragmentar.executor": "Run",
+    "Python.Listas.executor": "Run",
+    "Python.Metodos.executor": "Run",
     "Python.Operadores.executor": "Run",
     "Python.Primer_Proyecto.executor": "Run",
+    "Python.Propiedades_Strings.executor": "Run",
     "Python.Proyecto_dia2.executor": "Run",
+    "Python.Tuples.executor": "Run",
+    "Python.boleanos.executor": "Run",
+    "Python.diccionarios.executor": "Run",
     "Python.formatear_cadenas.executor": "Run",
     "Python.index.executor": "Run",
     "Python.integers_floats.executor": "Run",
     "Python.redondear.executor": "Run",
+    "Python.sets.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -69,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\u599687\Downloads\Dev\PythonTotal\pythonProject\Dia 3" />
       <recent name="C:\Users\u599687\Downloads\Dev\PythonTotal\pythonProject" />
       <recent name="C:\Users\u599687\Downloads\Dev\PythonTotal\pythonProject\Dia 1" />
     </key>
@@ -105,7 +111,71 @@
       <option name="project" value="LOCAL" />
       <updated>1725436842795</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit dia 3">
+      <option name="closed" value="true" />
+      <created>1726206644254</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726206644254</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit dia 3">
+      <option name="closed" value="true" />
+      <created>1726283253216</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726283253216</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit dia 3">
+      <option name="closed" value="true" />
+      <created>1726284841212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726284841212</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit dia 3">
+      <option name="closed" value="true" />
+      <created>1726290376587</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726290376587</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit dia 3">
+      <option name="closed" value="true" />
+      <created>1726597283836</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726597283836</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit dia 3">
+      <option name="closed" value="true" />
+      <created>1726628119928</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726628119928</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit dia 3">
+      <option name="closed" value="true" />
+      <created>1726631389699</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726631389699</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit dia 3">
+      <option name="closed" value="true" />
+      <created>1726633573891</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726633573891</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,5 +193,21 @@
     <MESSAGE value="Commit dia 2" />
     <MESSAGE value="Commit dia 3" />
     <option name="LAST_COMMIT_MESSAGE" value="Commit dia 3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dia 3/sets.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Dia 3/sets.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -13,10 +13,13 @@ palabras=texto.split()
 cant_palabras=len(palabras)
 
 ##############3#####################
-primer_palabra=palabras[0]
-ultima_palabra=palabras[-1]
-primer_letra=primer_palabra[0]
-ultima_letra=ultima_palabra[-1]
+#primer_palabra=palabras[0]
+#ultima_palabra=palabras[-1]
+#primer_letra=primer_palabra[0]
+#ultima_letra=ultima_palabra[-1]
+
+primer_letra=texto[0]
+ultima_letra=texto[-1]
 
 #############4#######################
 palabras_r=palabras

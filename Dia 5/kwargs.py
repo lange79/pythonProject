@@ -35,5 +35,14 @@ prueba(15,50,100,200,300,400,x='uno',y='dos',z='tres',u=5)
 
 
 args=[100,200,300,400]
-kwargs = {'x':uno,'y':'dos','z':'tres'}
+kwargs = {'x':'uno','y':'dos','z':'tres'}
 prueba(15,50,*args,**kwargs)
+
+
+def describir_persona(nombre, **kwargs):
+    print(f"Caracteristicas de {nombre}")
+    for clave, valor in kwargs.items():
+        print(f"{clave}: {valor}")
+
+
+describir_persona("María", color_ojos="azules", color_pelo="rubio")

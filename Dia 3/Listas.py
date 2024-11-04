@@ -21,9 +21,9 @@ print(mi_lista3)
 mi_lista3.append('g')
 print(mi_lista3)
 mi_lista3.pop()
-print(mi_lista3)
+print("pop",mi_lista3)
 mi_lista3.pop(0)
-print(mi_lista3)
+print("pop0",mi_lista3)
 
 eliminado= mi_lista3.pop(0)
 print(mi_lista3)
@@ -31,7 +31,7 @@ print(eliminado)
 
 lista = ['g', 'o','b','m','c']
 lista.sort()
-print(lista)
+print("ordenada",lista)
 
 lista = ['g', 'o','b','m','c']
 nueva_lista=lista.sort()

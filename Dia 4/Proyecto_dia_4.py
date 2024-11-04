@@ -19,6 +19,7 @@ while intentos in range(1,9):
         print(f"Lo siento {jugador}, has elegido un numero que no esta permitido.")
         continue
     intentos+=1
+print(f"Lo siento {jugador} se te han acabado los intentos.")
 
 
 

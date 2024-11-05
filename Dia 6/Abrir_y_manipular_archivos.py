@@ -37,3 +37,4 @@ print(str(segunda[1]))
 
 
 mi_archivo.close()
+

@@ -31,5 +31,9 @@ todas=mi_archivo.readlines()
 todas=todas.pop()
 print (todas)
 
+mi_archivo = open('Prueba.txt')
+segunda=mi_archivo.readlines()
+print(str(segunda[1]))
+
 
 mi_archivo.close()

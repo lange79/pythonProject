@@ -14,3 +14,10 @@ print(Animal.__subclasses__())
 
 piolin= Pajaro(2, "amarillo")
 print(piolin.color)
+
+
+class Persona:
+    def caracteristicas (self, nombre, edad):
+
+class Alumno (Persona):
+    pass

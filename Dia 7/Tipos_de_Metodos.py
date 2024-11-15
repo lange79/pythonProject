@@ -39,3 +39,24 @@ piolin.pintar_negro()
 piolin.volar(50)
 piolin.alas=False
 print(piolin.alas)
+
+
+class Jugador:
+    vivo = False
+
+    @classmethod
+    def revivir(cls):
+        print(Jugador.vivo)
+
+        cls.vivo = True
+        print(Jugador.vivo)
+
+Jugador.revivir()
+
+
+class Personaje:
+    def __init__(self, cantidad_flechas):
+        self.cantidad_flechas = cantidad_flechas
+
+    def lanzar_flecha(self):
+        self.cantidad_flechas = self.cantidad_flechas - 1

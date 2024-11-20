@@ -24,3 +24,8 @@ for p in registro_ultima_sesion:
 archivo.close()
 archivo=open("registro.txt","r")
 print(archivo.read())
+
+
+archivo = open('Prueba1.txt', 'a')
+archivo.write(input())
+archivo.close()

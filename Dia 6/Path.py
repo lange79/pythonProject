@@ -12,7 +12,7 @@ base=Path.home()
 guia=Path(base,"Europa", "España",Path("Barcelona", "Sagrada_familia.txt"))
 guia2=guia.with_name("La_Pedrera.txt")
 
-print(guia)
+print("Esta es la guia",guia)
 print(guia.parent)
 print(guia.parent.parent)
 
@@ -20,10 +20,12 @@ print(guia2)
 
 guia3= Path(Path.home(),"Europa")
 for txt in Path(guia3).glob("*.txt"):
-    print(txt)
+    print("Estos son los TXT en Europa\n", txt)
 
 guia3= Path(Path.home(),"Europa")
+print("Estos son los archivos TXT:\n ")
 for txt in Path(guia3).glob("**/*.txt"):
+
     print(txt)
 
 guia4=Path("Europa","España","Barcelona","Sagrada_Familia.txt")

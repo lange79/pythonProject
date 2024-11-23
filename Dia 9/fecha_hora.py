@@ -36,3 +36,11 @@ duerme= datetime(2022,10,5,23,45)
 vigilia=duerme-despierta
 print(vigilia)
 print(vigilia.seconds)
+
+from datetime import date
+
+hoy = date.today()
+print("Hoy es: ",hoy)
+
+hora_actual=datetime.now()
+print(hora_actual)

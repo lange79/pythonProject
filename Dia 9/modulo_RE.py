@@ -80,3 +80,33 @@ print(buscar)
 
 buscar = re.findall(r"[^\s]+", texto)
 print(buscar)
+
+
+
+import re
+
+def verificar_email(email):
+    email=email.lower()
+    patron = r"\w+@\w+\.com(?:\.[a-z]{2})?$"
+    valida= re.search(patron,email)
+    if valida:
+        print("Ok")
+    else:
+        print("La dirección de email es incorrecta")
+
+
+verificar_email("usuario@host.com.")
+
+import re
+
+
+def verificar_saludo(frase):
+    frase=frase.lower()
+    patron=r"^[hola]+\w"
+    verifica=re.search(patron,frase)
+    if verifica:
+        print("Ok")
+    else:
+        print("No has saludado")
+
+verificar_saludo("Hola. Necesito un favor")
